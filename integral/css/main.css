@@ -488,7 +488,7 @@ h1 {
 .picture {
   padding: 10rem;
   background-color: white;
-  background-image: url(../../images/pier.jpg);
+  background-image: url(../../../images/pier.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -498,14 +498,6 @@ h1 {
   display: block;
 }
 .picture h1 {
-  /*color: white;
-  //font-size: 4.429rem;
-  font-size: 16.429rem;
-  font-family: Montserrat;
-  letter-spacing: 1.25px;
-  font-weight: 500;
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
-  text-align: center;*/
   display: block;
   -webkit-margin-before: 0.67em;
           margin-block-start: 0.67em;
@@ -617,7 +609,7 @@ h1 {
 .picture {
   padding: 10rem;
   background-color: white;
-  background-image: url(../../images/pier.jpg);
+  background-image: url(../../../images/pier.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -627,14 +619,6 @@ h1 {
   display: block;
 }
 .picture h1 {
-  /*color: white;
-  //font-size: 4.429rem;
-  font-size: 16.429rem;
-  font-family: Montserrat;
-  letter-spacing: 1.25px;
-  font-weight: 500;
-  text-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
-  text-align: center;*/
   display: block;
   -webkit-margin-before: 0.67em;
           margin-block-start: 0.67em;
