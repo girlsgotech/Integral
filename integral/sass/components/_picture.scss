@@ -1,15 +1,12 @@
 .picture {
   padding: 10rem;
   background-color: white;
-  background-image: url(../../../images/pier.jpg);
+  background-image: url(../../images/pier.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
   box-shadow: 0 3000px rgba(0, 0, 0, 0.3) inset;
 
-  div {
-    display: block;
-  }
   h1 {
     display: block;
     margin-block-start: 0.67em;
@@ -25,7 +22,8 @@
 
   h2 {
     color: white;
-    font-size: 10rem;
+    //font-size: 10rem;
+    font-size: 15rem;
     font-family: Montserrat;
     letter-spacing: 1.25px;
     font-weight: 400;
@@ -37,21 +35,22 @@
     display: block;
     color: white;
     font-weight: 400;
-    font-size: 8rem;
+    //font-size: 8rem;
+    font-size: 10rem;
     font-family: Montserrat;
-    //letter-spacing: 1.25px;
+    letter-spacing: 1.25px;
     // font-weight: 400;
     // text-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
     text-align: center;
   }
-
   img {
-    display: block;
+    //display: block;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
   }
-
+  .buttons {
+  }
   .view_btn {
     color: white;
     background-color: transparent;
