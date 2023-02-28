@@ -489,7 +489,7 @@ h1 {
 .picture {
   padding: 10rem;
   background-color: white;
-  background-image: url(../../images/pier.jpg);
+  background-image: url(../../images/optimize.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -508,12 +508,12 @@ h1 {
   color: white;
   text-align: center;
   font-family: Montserrat;
-  font-size: 20.429rem;
+  font-size: 25.429rem;
   text-shadow: 0 0 8px rgb(0, 0, 0);
 }
 .picture h2 {
   color: white;
-  font-size: 15rem;
+  font-size: 20rem;
   font-family: Montserrat;
   letter-spacing: 1.25px;
   font-weight: 400;
@@ -521,12 +521,12 @@ h1 {
   text-align: center;
 }
 .picture p {
-  display: block;
   color: white;
   font-weight: 400;
-  font-size: 10rem;
+  font-size: 15rem;
   font-family: Montserrat;
   letter-spacing: 1.25px;
+  font-weight: 400;
   text-align: center;
 }
 .picture img {
@@ -607,7 +607,7 @@ h1 {
 .picture {
   padding: 10rem;
   background-color: white;
-  background-image: url(../../images/pier.jpg);
+  background-image: url(../../images/optimize.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -626,12 +626,12 @@ h1 {
   color: white;
   text-align: center;
   font-family: Montserrat;
-  font-size: 20.429rem;
+  font-size: 25.429rem;
   text-shadow: 0 0 8px rgb(0, 0, 0);
 }
 .picture h2 {
   color: white;
-  font-size: 15rem;
+  font-size: 20rem;
   font-family: Montserrat;
   letter-spacing: 1.25px;
   font-weight: 400;
@@ -639,12 +639,12 @@ h1 {
   text-align: center;
 }
 .picture p {
-  display: block;
   color: white;
   font-weight: 400;
-  font-size: 10rem;
+  font-size: 15rem;
   font-family: Montserrat;
   letter-spacing: 1.25px;
+  font-weight: 400;
   text-align: center;
 }
 .picture img {
